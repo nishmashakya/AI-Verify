@@ -15,7 +15,6 @@ Our project aims to address this challenge by designing a comprehensive AI dete
 ## Supplementary Materials
 - [User Research & Fieldwork](https://docs.google.com/spreadsheets/d/10_8SS5YATxUMuE2AAiqhSwuvC1djQEV8XX64LAaqlFQ/edit?usp=sharing)
 - [Wireframes](https://www.figma.com/design/lHcgZH20LZQajfBrUD3BsT/AI-Verify?node-id=0-1)
-- [Design Library](https://www.figma.com/design/lHcgZH20LZQajfBrUD3BsT/AI-Verify?node-id=16-83)
 - [Data Visualizations](https://www.figma.com/design/lHcgZH20LZQajfBrUD3BsT/AI-Verify?node-id=41-139)
 - [Prototype Preview](https://www.figma.com/proto/lHcgZH20LZQajfBrUD3BsT/AI-Verify?page-id=5%3A2&node-id=49-417&viewport=-548%2C497%2C0.24&t=Y9gheCuLKSey2FB6-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=47%3A156)
 - You can also find the supplemental resources in our [presentation](https://www.figma.com/deck/jQvNRcquY8uYxrxX29wcAk/Team-Presentation?node-id=1-545&t=29MgwFYxvxrK8Qmd-1)
