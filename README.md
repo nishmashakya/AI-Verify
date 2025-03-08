@@ -1,6 +1,7 @@
 # AI-Verify
 
 Team Number: IC25078
+
 Team Members: Yeeun Kim, KyuEun Kim, Nishma Shakya
 
 AI Verify is an AI detection and fact-checking tool with the main goal being to address the rise of fake news by Gen AI, driven by technological advancements, legal constraints, and market gaps, as well as promoting digital media literacy.
