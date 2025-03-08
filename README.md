@@ -1,5 +1,7 @@
 # AI-Verify
 
+AI Verify is an AI detection and fact-checking tool with the main goal being to address the rise of fake news by Gen AI, driven by technological advancements, legal constraints, and market gaps, as well as promoting digital media literacy.
+
 ## Abstract
 With the growing rate of AI-generated content and the rapid spread of deepfakes and fabricated news, it is becoming increasingly challenging for users to differentiate between credible information and misinformation/disinformation. As stated under Section 230 of the Communications Decency Act, social media platforms are not held accountable for hosting political disinformation, creating an urgent need for reliable AI-generated content detection tools. Fake news—often created and distributed in various multimedia formats like videos and articles—is continuing to spread, so the general public must have access to effective fact-checking mechanisms to verify content and enhance digital media literacy.
 
